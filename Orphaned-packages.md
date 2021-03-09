@@ -2,5 +2,5 @@
 
 Remove them by issuing this command:
 ```
-virtualbox-host-modules
+sudo pacman -Rs $(pacman -Qqtd)
 ```
