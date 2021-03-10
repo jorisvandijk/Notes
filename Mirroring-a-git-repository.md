@@ -7,8 +7,8 @@
 5. Add *ssh://* in front of the link and **replace the *:* with a */***.
 6. At *Mirror direction* select *Push* (We're pushing from Git**Lab** to Git**Hub**).
 7. Click the *Detect host keys* button.
-8. Set *Authentication method* to *SSH Public key.
-9. Click the green Mirror Repository button.
+8. Set *Authentication method* to *SSH Public key*.
+9. Click the green *Mirror Repository* button.
 10. Click the *Copy SSH public key* button, which looks like a clipboard.
 11. Go back to Git**Hub**.
 12. Go to *Settings* and there click on *Deploy Keys*.
